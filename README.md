@@ -1,4 +1,4 @@
-# react-native-vanilla
+# react-native-AllInOne By Riki Setiyo P
 A React Native Boilerplate Starter Kit All-In-One in this Module
 
 For the first time, run this command:
